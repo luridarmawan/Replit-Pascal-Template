@@ -1,5 +1,5 @@
 
-# Menggunakan Repl.it untuk ngoding Pascal
+# Template Pascal untuk ngoding di repl.it
 
 
 
