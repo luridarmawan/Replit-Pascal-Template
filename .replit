@@ -1,3 +1,2 @@
-language = "pascal"
+language = "Bash"
 run = "instantfpc helloworld.pas --arg1 --arg2"
-
