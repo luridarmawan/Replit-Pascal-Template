@@ -1,2 +1,3 @@
 language = "bash"
-run = "instantfpc helloworld.pas --arg1 --arg2"
+run = "bash main.sh"
+
