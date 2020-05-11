@@ -1,0 +1,2 @@
+instantfpc helloworld.pas
+

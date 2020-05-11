@@ -1,0 +1,3 @@
+language = "pascal"
+run = "instantfpc helloworld.pas --arg1 --arg2"
+
